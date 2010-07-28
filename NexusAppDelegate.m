@@ -16,4 +16,11 @@
 	// Insert code here to initialize your application 
 }
 
+- (NSApplicationTerminateReply)applicationShouldTerminate:(NSApplication *)app
+{
+    NSLog(@"app is terminating!");
+    
+    return NSTerminateNow;
+}
+
 @end

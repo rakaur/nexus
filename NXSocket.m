@@ -178,7 +178,7 @@
 
         NSUInteger written = [_outStream write:buf maxLength:len];
 
-        NSLog(@"wrote data: %s", (char *)[_sendQ mutableBytes]);
+        NSLog(@"wrote data: %s", [_sendQ mutableBytes]);
 
         /* Delete the bytes that were just written */
         [_sendQ replaceBytesInRange:NSMakeRange(0, written)

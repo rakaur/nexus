@@ -7,6 +7,7 @@
 //
 
 #import <Cocoa/Cocoa.h>
+#import "NXSocketTester.h"
 
 
 @interface AppController : NSObject {

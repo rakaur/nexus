@@ -13,7 +13,11 @@
 
 - (IBAction)testApp:(id)sender
 {
+    NXSocketTester *tester;
+    
     [spinner startAnimation:sender];
+    
+    tester = [[NXSocketTester alloc] init];
 }
 
 @end

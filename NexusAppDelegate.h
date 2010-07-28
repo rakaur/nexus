@@ -14,4 +14,6 @@
 
 @property (assign) IBOutlet NSWindow *window;
 
+- (NSApplicationTerminateReply)applicationShouldTerminate:(NSApplication *)app;
+
 @end
