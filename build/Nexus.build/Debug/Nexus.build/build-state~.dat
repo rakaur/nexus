@@ -1,0 +1,236 @@
+TNexus
+v7
+r0
+t311547441.699119
+cCheck dependencies
+cProcessPCH /var/folders/Ht/HtYKt6u5EtqUvvjFIDF2Nk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nexus_Prefix-abbxoajxenemqggesuhlzisfrbid/Nexus_Prefix.pch.pth Nexus_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+c<C0013:'CompileC AppController.o':P9:W0>
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004ABBF0FD00000000000000EE
+t1253830909
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/AppController.h
+c000000004C5079A70000000000000164
+t1280342439
+s356
+i<Cocoa/Cocoa.h>
+i"NXSocketTester.h"
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/AppController.m
+c000000004C5082120000000000000190
+t1280344594
+s400
+i"AppController.h"
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/English.lproj/InfoPlist.strings
+c000000004B31A620000000000000002D
+t1261544992
+s45
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/English.lproj/MainMenu.xib
+c000000004B31ABCE000000000002D467
+t1261546446
+s185447
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/NXListener.h
+c000000004BF6E402000000000000011A
+t1274471426
+s282
+i<Cocoa/Cocoa.h>
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/NXListener.m
+c000000004BF6E402000000000000010E
+t1274471426
+s270
+i"NXListener.h"
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/NXSocket.h
+c000000004BF6E40200000000000003E1
+t1274471426
+s993
+i<Cocoa/Cocoa.h>
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/NXSocket.m
+c000000004C5082E600000000000015B9
+t1280344806
+s5561
+i"NXSocket.h"
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/NXSocketTester.h
+c000000004C509576000000000000018B
+t1280349558
+s395
+i<Cocoa/Cocoa.h>
+i"NXSocket.h"
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/NXSocketTester.m
+c000000004C50956A0000000000000481
+t1280349546
+s1153
+i"NXSocketTester.h"
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/NexusAppDelegate.h
+c000000004C508263000000000000018D
+t1280344675
+s397
+i<Cocoa/Cocoa.h>
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/NexusAppDelegate.m
+c000000004C50823B0000000000000206
+t1280344635
+s518
+i"NexusAppDelegate.h"
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/Nexus_Prefix.pch
+c000000004B31A620000000000000008D
+t1261544992
+s141
+i<Cocoa/Cocoa.h>
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Debug/Nexus.app
+t2
+s0
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Debug/Nexus.app/Contents/Info.plist
+t2
+s0
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Debug/Nexus.app/Contents/MacOS/Nexus
+t2
+s0
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Debug/Nexus.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Debug/Nexus.app/Contents/Resources/English.lproj/InfoPlist.strings
+t2
+s0
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Debug/Nexus.app/Contents/Resources/English.lproj/MainMenu.nib
+t2
+s0
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/Objects-normal/x86_64/AppController.o
+t2
+s0
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/Objects-normal/x86_64/AppController.s
+t1289854641
+s48450
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/Objects-normal/x86_64/NXListener.o
+t2
+s0
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/Objects-normal/x86_64/NXSocket.o
+t2
+s0
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/Objects-normal/x86_64/NXSocketTester.o
+t2
+s0
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/Objects-normal/x86_64/Nexus.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/Objects-normal/x86_64/NexusAppDelegate.o
+t2
+s0
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/rakaur/Dropbox/Sources/objc/Nexus/main.m
+c000000004B31A74500000000000000FD
+t1261545285
+s253
+i<Cocoa/Cocoa.h>
+
+N/var/folders/Ht/HtYKt6u5EtqUvvjFIDF2Nk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nexus_Prefix-abbxoajxenemqggesuhlzisfrbid/Nexus_Prefix.pch.pth
+t1289854640
+s7463660
+
+NNexus-Info.plist
+c000000004B31A62000000000000003EA
+t1261544992
+s1002
+
+C<C0013:'CompileC AppController.o':P9:W0>
+s311547441.258333
+e311547441.699038
+r1
+xCompileC
+xbuild/Nexus.build/Debug/Nexus.build/Objects-normal/x86_64/AppController.o
+x/Users/rakaur/Dropbox/Sources/objc/Nexus/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@64"Compile /Users/rakaur/Dropbox/Sources/objc/Nexus/AppController.m311547441#311547441#0(0"0(0#0#56"/Users/rakaur/Dropbox/Sources/objc/Nexus/AppController.m3907004821821025792#1486"    cd /Users/rakaur/Dropbox/Sources/objc/Nexus    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/Nexus-generated-files.hmap -I/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/Nexus-own-target-headers.hmap -I/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/Nexus-all-target-headers.hmap -iquote /Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/Nexus-project-headers.hmap -F/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Debug -I/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Debug/include -I/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/DerivedSources/x86_64 -I/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/DerivedSources -include /var/folders/Ht/HtYKt6u5EtqUvvjFIDF2Nk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nexus_Prefix-abbxoajxenemqggesuhlzisfrbid/Nexus_Prefix.pch -S /Users/rakaur/Dropbox/Sources/objc/Nexus/AppController.m -o /Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/Objects-normal/x86_64/AppController.s0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311547435#311547435#0(0"0(0#1#0"33495998977409136#0"0#
+
+CCompileC build/Nexus.build/Debug/Nexus.build/Objects-normal/x86_64/AppController.o /Users/rakaur/Dropbox/Sources/objc/Nexus/AppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Nexus.build/Debug/Nexus.build/Objects-normal/x86_64/NXListener.o /Users/rakaur/Dropbox/Sources/objc/Nexus/NXListener.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Nexus.build/Debug/Nexus.build/Objects-normal/x86_64/NXSocket.o /Users/rakaur/Dropbox/Sources/objc/Nexus/NXSocket.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Nexus.build/Debug/Nexus.build/Objects-normal/x86_64/NXSocketTester.o /Users/rakaur/Dropbox/Sources/objc/Nexus/NXSocketTester.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Nexus.build/Debug/Nexus.build/Objects-normal/x86_64/NexusAppDelegate.o /Users/rakaur/Dropbox/Sources/objc/Nexus/NexusAppDelegate.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileC build/Nexus.build/Debug/Nexus.build/Objects-normal/x86_64/main.o /Users/rakaur/Dropbox/Sources/objc/Nexus/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CCompileXIB /Users/rakaur/Dropbox/Sources/objc/Nexus/English.lproj/MainMenu.xib
+r0
+
+CCopyStringsFile /Users/rakaur/Dropbox/Sources/objc/Nexus/build/Debug/Nexus.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CLd /Users/rakaur/Dropbox/Sources/objc/Nexus/build/Debug/Nexus.app/Contents/MacOS/Nexus normal x86_64
+r0
+
+CProcessInfoPlistFile /Users/rakaur/Dropbox/Sources/objc/Nexus/build/Debug/Nexus.app/Contents/Info.plist Nexus-Info.plist
+r0
+
+CProcessPCH /var/folders/Ht/HtYKt6u5EtqUvvjFIDF2Nk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nexus_Prefix-abbxoajxenemqggesuhlzisfrbid/Nexus_Prefix.pch.pth Nexus_Prefix.pch normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s311547435.135459
+e311547441.257983
+r1
+xProcessPCH
+x/var/folders/Ht/HtYKt6u5EtqUvvjFIDF2Nk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nexus_Prefix-abbxoajxenemqggesuhlzisfrbid/Nexus_Prefix.pch.pth
+xNexus_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF07#2@27"Precompile Nexus_Prefix.pch311547435#311547441#0(0"0(0#0#57"/Users/rakaur/Dropbox/Sources/objc/Nexus/Nexus_Prefix.pch7299824218901144576#1374"    cd /Users/rakaur/Dropbox/Sources/objc/Nexus    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -fdiagnostics-print-source-range-info -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/Nexus-generated-files.hmap -I/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/Nexus-own-target-headers.hmap -I/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/Nexus-all-target-headers.hmap -iquote /Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/Nexus-project-headers.hmap -F/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Debug -I/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Debug/include -I/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/DerivedSources/x86_64 -I/Users/rakaur/Dropbox/Sources/objc/Nexus/build/Nexus.build/Debug/Nexus.build/DerivedSources -c /Users/rakaur/Dropbox/Sources/objc/Nexus/Nexus_Prefix.pch -o /var/folders/Ht/HtYKt6u5EtqUvvjFIDF2Nk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Nexus_Prefix-abbxoajxenemqggesuhlzisfrbid/Nexus_Prefix.pch.pth0#
+
+CTouch /Users/rakaur/Dropbox/Sources/objc/Nexus/build/Debug/Nexus.app
+r0
+

@@ -18,6 +18,7 @@
     [spinner startAnimation:sender];
     
     tester = [[NXSocketTester alloc] init];
+    [tester autorelease];
 }
 
 @end

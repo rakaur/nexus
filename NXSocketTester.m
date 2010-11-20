@@ -47,6 +47,7 @@
     NSLog(@"read data: %@", s);
     
     /* XXX - further processing */
+    [s autorelease];
 }
 
 - (void)errorOccured
